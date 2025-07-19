@@ -4,10 +4,9 @@
 Shopping Sprints is a Flutter-based shopping app designed to provide users with a clean and modern UI to browse and shop efficiently.
 
 ## ✨ Features
-- Multi-language support (English & Arabic)
 - Clean shopping page layout
 - Responsive design
-- Organized widgets and localization
+- Organized widgets 
 - Navigation between welcome and main shopping pages
 
 ## 🚀 Getting Started
@@ -38,5 +37,3 @@ git clone https://github.com/Jayan2003/ShoppingSprintsApp.git
 ![Main Page4](screenshots/main4.png)
 
 
-### 🌐 Localization Example
-![Localization](screenshots/localization_demo.png)
